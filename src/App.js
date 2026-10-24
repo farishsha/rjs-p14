@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 
 function App() {
 
-    // TODO 1: Create a state variable
+    // TODO 1: Create a state vari
     const [message, setMessage] = useState("");
 
     // TODO 2: Use useEffect when component loads
